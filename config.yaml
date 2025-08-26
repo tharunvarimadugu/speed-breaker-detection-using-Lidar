@@ -1,2 +1,13 @@
-# Configuration
-This is the configuration file for the application.
+serial_port: "/dev/ttyUSB0"
+baudrate: 115200
+
+baseline_window: 40
+median_filter_size: 5
+
+min_bump_height: 0.10
+max_bump_height: 0.20
+
+min_consecutive_triggers: 3
+post_trigger_suppression_sec: 1.5
+
+log_file: "detections.log"
