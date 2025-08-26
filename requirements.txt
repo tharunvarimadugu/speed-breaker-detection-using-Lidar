@@ -1,2 +1,4 @@
-# Requirements
-This file lists the requirements for the project.
+pyserial>=3.5
+numpy
+PyYAML
+sounddevice
