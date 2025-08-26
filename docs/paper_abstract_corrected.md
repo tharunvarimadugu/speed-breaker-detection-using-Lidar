@@ -1,2 +1,3 @@
-## Paper Abstract
-This document contains the abstract of the research paper.
+Corrected Abstract
+
+Speed breakers, though intended to slow vehicles, often cause accidents when unmarked or poorly visible, particularly at night or in adverse weather. This work presents a LiDAR-based speed breaker detection and alert system using the TFMini Plus LiDAR sensor integrated with an Arduino UNO microcontroller. The system continuously measures road surface distance; sudden elevation changes of 10–20 cm are detected and classified as speed breakers. When a speed breaker is detected, an audio alert is triggered for the driver. Compared to camera-based methods, the LiDAR approach works reliably in low-light and foggy conditions. A prototype demonstrates high detection accuracy across varied lighting and weather conditions, making it suitable for integration into driver-assist systems and road safety applications.
